@@ -95,7 +95,7 @@ input {
 
 input:focus {
     outline: transparent;
-    border: 2px solid #2891e0;
+    border: 1px solid #2891e0;
     border-radius: 3px;
     box-shadow: 1px 1px 1px #e0dfda;
 }
